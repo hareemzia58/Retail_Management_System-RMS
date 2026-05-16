@@ -114,7 +114,7 @@ The **Super Store ABC Retail Management System** is a full-featured web applicat
 
 ```bash
 git clone https://github.com/hareemzia58/Retail_management_system-RMS.git
-cd superstore-abc
+cd Retail_management_system-RMS
 ```
 #### 2. Configure Database Connection
 Edit `php/db_connect.php`:
