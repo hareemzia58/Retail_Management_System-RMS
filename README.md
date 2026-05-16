@@ -1,4 +1,4 @@
-# Super Store ABC - Retail Management System
+# Retail Management System - RMS
 
 [![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue.svg)](https://php.net)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2016%2B-red.svg)](https://www.microsoft.com/sql-server)
